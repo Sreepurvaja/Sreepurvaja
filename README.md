@@ -18,12 +18,10 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intell
 <a href="https://www.jetbrains.com/idea/" target="_blank">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
 </a>
-
 <!-- Postman Badge -->
 <a href="https://www.postman.com/" target="_blank">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
 </a>
-
 <!-- Spring Boot Badge -->
 <a href="https://spring.io/projects/spring-boot" target="_blank">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
