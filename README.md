@@ -14,6 +14,21 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intell
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-3F2B34?style=flat&logo=oracle&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<!-- IntelliJ Badge -->
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+</a>
+
+<!-- Postman Badge -->
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+</a>
+
+<!-- Spring Boot Badge -->
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
+</a>
+
 
 ## 🌱 I'm Currently Learning
 
