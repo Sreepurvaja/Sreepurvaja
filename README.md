@@ -36,7 +36,7 @@ I am currently dedicated to expand my skills in  backend development*. Exploring
 
 - ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreepurvaja&show_icons=true&hide=contribs,prs)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreepurvaja&show_icons=true&theme=radical)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sreepurvaja)
 
