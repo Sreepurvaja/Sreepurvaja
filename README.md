@@ -2,7 +2,7 @@
 # 👋 Hello, I'm Sree Purvaja K
 Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intelligence and Data Science, with a creative mind and crazy ideas.I'm a curious person .I'm interested in learning new skills ,competent and diligent individual in seeking oppurtunity to establish a better career.
 
-- ## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
