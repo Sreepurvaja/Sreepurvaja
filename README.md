@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Sreepurvaja&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 # 👋 Hello, I'm Sree Purvaja K
 Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intelligence and Data Science, with a creative mind and crazy ideas.I'm a curious person .I'm interested in learning new skills ,competent and diligent individual in seeking oppurtunity to establish a better career.
 
