@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Sreepurvaja&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
 # 👋 Hello, I'm Sree Purvaja K
-Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intelligence and Data Science, passionate about exploring and contributing to the world of technology. I specialize in data science and machine learning, creating insights from data and developing predictive models and visualization to solve real-world problems.
+Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intelligence and Data Science, with a creative mind and crazy ideas.I'm a curious person .I'm interested in learning new skills ,competent and diligent individual in seeking oppurtunity to establish a better career.
 
 ## 🚀 About Me
 
@@ -38,11 +38,6 @@ I am currently dedicated to expand my skills in  backend development*. Exploring
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sreepurvaja)
 
-## 👯‍♀ I'm Looking to Collaborate On
-
-I'm enthusiastic about collaborating on *innovative open-source projects* and participating in *hackathons*. 
-
-Let's build something amazing together!
 
 ## 🤝 Connect with Me
 
@@ -50,6 +45,7 @@ Let's build something amazing together!
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SREEPURVAJA_K03)
 
 Feel free to fork and star my projects! ⭐
+Let's build something amazing together!
 
 Remember, the future is built by those who dare to dream and do. Looking forward to connecting with fellow innovators and creating a positive impact in the world of technology!🤝
 
