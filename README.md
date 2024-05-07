@@ -31,6 +31,8 @@ I am currently dedicated to expand my skills in  backend development*. Exploring
 
 - *HackerRank:* [@21AD044_KPRIET](https://www.hackerrank.com/21AD044_KPRIET) 
 - *SkillRack:* [21ad044@kpriet](http://www.skillrack.com/profile/387796/c23c17301fe800af2bc3992718d11ca25c4775db)
+- *Leetcode:*  [ksreepurvaja](https://leetcode.com/u/ksreepurvaja/)
+- *InterviewBit:* [SREE PURVAJA K](https://www.interviewbit.com/profile/sree-purvaja-k/)
 
 - ## 📈 GitHub Stats
 
